@@ -1,0 +1,7 @@
+C:\Users\Abdul Mateen\source\repos\task 9\task 9\bin\Debug\task 9.exe.config
+C:\Users\Abdul Mateen\source\repos\task 9\task 9\bin\Debug\task 9.exe
+C:\Users\Abdul Mateen\source\repos\task 9\task 9\bin\Debug\task 9.pdb
+C:\Users\Abdul Mateen\source\repos\task 9\task 9\obj\Debug\task 9.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Mateen\source\repos\task 9\task 9\obj\Debug\task 9.exe
+C:\Users\Abdul Mateen\source\repos\task 9\task 9\obj\Debug\task 9.pdb
+C:\Users\Abdul Mateen\source\repos\task 9\task 9\obj\Debug\task 9.csproj.AssemblyReference.cache

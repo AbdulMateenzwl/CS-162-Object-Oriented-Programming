@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{67EC06D3-C2FA-4AA7-A4D6-44CBFD813C7A}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Daraz_V_Convert</RootNamespace>
+    <AssemblyName>Daraz_V_Convert</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL\Admin.cs" />
+    <Compile Include="BL\Product.cs" />
+    <Compile Include="BL\Seller.cs" />
+    <Compile Include="BL\User.cs" />
+    <Compile Include="DL\AdminDL.cs" />
+    <Compile Include="DL\SellerDL.cs" />
+    <Compile Include="DL\UserDL.cs" />
+    <Compile Include="Forms\AdminChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminChangePassword.Designer.cs">
+      <DependentUpon>AdminChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminGV.Designer.cs">
+      <DependentUpon>AdminGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminHistory.Designer.cs">
+      <DependentUpon>AdminHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminMenu.Designer.cs">
+      <DependentUpon>AdminMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EditProduct.Designer.cs">
+      <DependentUpon>EditProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EditSeller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EditSeller.Designer.cs">
+      <DependentUpon>EditSeller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main_Menu.Designer.cs">
+      <DependentUpon>Main_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ProductAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ProductAdd.Designer.cs">
+      <DependentUpon>ProductAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SellerAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SellerAdd.Designer.cs">
+      <DependentUpon>SellerAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SellerChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SellerChangePassword.Designer.cs">
+      <DependentUpon>SellerChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SellerGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SellerGV.Designer.cs">
+      <DependentUpon>SellerGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SellerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SellerMenu.Designer.cs">
+      <DependentUpon>SellerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sign_In.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sign_In.Designer.cs">
+      <DependentUpon>Sign_In.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserCartGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserCartGV.Designer.cs">
+      <DependentUpon>UserCartGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserChangepassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserChangepassword.Designer.cs">
+      <DependentUpon>UserChangepassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserGV.Designer.cs">
+      <DependentUpon>UserGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Userinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Userinfo.Designer.cs">
+      <DependentUpon>Userinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserMenu.Designer.cs">
+      <DependentUpon>UserMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\MainUI.cs" />
+    <Compile Include="UI\SellerUI.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\AdminChangePassword.resx">
+      <DependentUpon>AdminChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminGV.resx">
+      <DependentUpon>AdminGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminHistory.resx">
+      <DependentUpon>AdminHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminMenu.resx">
+      <DependentUpon>AdminMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EditProduct.resx">
+      <DependentUpon>EditProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EditSeller.resx">
+      <DependentUpon>EditSeller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main_Menu.resx">
+      <DependentUpon>Main_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ProductAdd.resx">
+      <DependentUpon>ProductAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SellerAdd.resx">
+      <DependentUpon>SellerAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SellerChangePassword.resx">
+      <DependentUpon>SellerChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SellerGV.resx">
+      <DependentUpon>SellerGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SellerMenu.resx">
+      <DependentUpon>SellerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sign_In.resx">
+      <DependentUpon>Sign_In.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserCartGV.resx">
+      <DependentUpon>UserCartGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserChangepassword.resx">
+      <DependentUpon>UserChangepassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserGV.resx">
+      <DependentUpon>UserGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Userinfo.resx">
+      <DependentUpon>Userinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserMenu.resx">
+      <DependentUpon>UserMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-3733.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-37331.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-37332.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-37333.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-37334.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-37335.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-37336.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-37.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-37337.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-www3733.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-371.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-372.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagews.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-373.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-374.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-375.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-376.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitlewd-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unti2w2tled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\618316_arrow_exit_logout_sign out_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unti2w2tled-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unti2w2tled-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8664903_eye_slash_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8664903_eye_slash_icon%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitwdqwdqwdled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unti2w2tled-13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-377.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-378.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-379.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-button-clip-art-clkerm-vector-clip-art-3710.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

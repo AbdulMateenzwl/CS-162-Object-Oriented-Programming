@@ -1,0 +1,11 @@
+D:\UET\Semester2\OOP\Week 9\PD\Bill generator\Bill generator\bin\Debug\Bill generator.exe.config
+D:\UET\Semester2\OOP\Week 9\PD\Bill generator\Bill generator\bin\Debug\Bill generator.exe
+D:\UET\Semester2\OOP\Week 9\PD\Bill generator\Bill generator\bin\Debug\Bill generator.pdb
+D:\UET\Semester2\OOP\Week 9\PD\Bill generator\Bill generator\obj\Debug\Bill generator.csproj.AssemblyReference.cache
+D:\UET\Semester2\OOP\Week 9\PD\Bill generator\Bill generator\obj\Debug\Bill generator.csproj.SuggestedBindingRedirects.cache
+D:\UET\Semester2\OOP\Week 9\PD\Bill generator\Bill generator\obj\Debug\Bill_generator.Form1.resources
+D:\UET\Semester2\OOP\Week 9\PD\Bill generator\Bill generator\obj\Debug\Bill_generator.Properties.Resources.resources
+D:\UET\Semester2\OOP\Week 9\PD\Bill generator\Bill generator\obj\Debug\Bill generator.csproj.GenerateResource.cache
+D:\UET\Semester2\OOP\Week 9\PD\Bill generator\Bill generator\obj\Debug\Bill generator.csproj.CoreCompileInputs.cache
+D:\UET\Semester2\OOP\Week 9\PD\Bill generator\Bill generator\obj\Debug\Bill generator.exe
+D:\UET\Semester2\OOP\Week 9\PD\Bill generator\Bill generator\obj\Debug\Bill generator.pdb

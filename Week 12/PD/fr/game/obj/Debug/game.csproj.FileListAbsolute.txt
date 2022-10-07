@@ -1,0 +1,14 @@
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\bin\Debug\game.exe.config
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\bin\Debug\game.exe
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\bin\Debug\game.pdb
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\bin\Debug\framework.dll
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\bin\Debug\framework.pdb
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\obj\Debug\game.csproj.AssemblyReference.cache
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\obj\Debug\game.csproj.SuggestedBindingRedirects.cache
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\obj\Debug\game.Form1.resources
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\obj\Debug\game.Properties.Resources.resources
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\obj\Debug\game.csproj.CopyComplete
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\obj\Debug\game.exe
+D:\UET\Semester2\OOP\Week 12\PD\fr\game\obj\Debug\game.pdb

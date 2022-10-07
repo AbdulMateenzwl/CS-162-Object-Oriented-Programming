@@ -1,0 +1,6 @@
+D:\lab 1\task 16\task 16\bin\Debug\task 16.exe.config
+D:\lab 1\task 16\task 16\bin\Debug\task 16.exe
+D:\lab 1\task 16\task 16\bin\Debug\task 16.pdb
+D:\lab 1\task 16\task 16\obj\Debug\task 16.csproj.CoreCompileInputs.cache
+D:\lab 1\task 16\task 16\obj\Debug\task 16.exe
+D:\lab 1\task 16\task 16\obj\Debug\task 16.pdb

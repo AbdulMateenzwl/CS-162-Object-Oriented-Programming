@@ -1,0 +1,7 @@
+D:\lab 1\task 20\task 20\bin\Debug\task 20.exe.config
+D:\lab 1\task 20\task 20\bin\Debug\task 20.exe
+D:\lab 1\task 20\task 20\bin\Debug\task 20.pdb
+D:\lab 1\task 20\task 20\obj\Debug\task 20.csproj.AssemblyReference.cache
+D:\lab 1\task 20\task 20\obj\Debug\task 20.csproj.CoreCompileInputs.cache
+D:\lab 1\task 20\task 20\obj\Debug\task 20.exe
+D:\lab 1\task 20\task 20\obj\Debug\task 20.pdb

@@ -1,0 +1,6 @@
+D:\lab 1\task 19\task 19\bin\Debug\task 19.exe.config
+D:\lab 1\task 19\task 19\bin\Debug\task 19.exe
+D:\lab 1\task 19\task 19\bin\Debug\task 19.pdb
+D:\lab 1\task 19\task 19\obj\Debug\task 19.csproj.CoreCompileInputs.cache
+D:\lab 1\task 19\task 19\obj\Debug\task 19.exe
+D:\lab 1\task 19\task 19\obj\Debug\task 19.pdb

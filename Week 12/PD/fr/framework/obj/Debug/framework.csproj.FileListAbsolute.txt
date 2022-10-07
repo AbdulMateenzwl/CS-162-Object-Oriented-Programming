@@ -1,0 +1,6 @@
+D:\UET\Semester2\OOP\Week 12\PD\fr\framework\bin\Debug\framework.dll
+D:\UET\Semester2\OOP\Week 12\PD\fr\framework\bin\Debug\framework.pdb
+D:\UET\Semester2\OOP\Week 12\PD\fr\framework\obj\Debug\framework.csproj.AssemblyReference.cache
+D:\UET\Semester2\OOP\Week 12\PD\fr\framework\obj\Debug\framework.csproj.CoreCompileInputs.cache
+D:\UET\Semester2\OOP\Week 12\PD\fr\framework\obj\Debug\framework.dll
+D:\UET\Semester2\OOP\Week 12\PD\fr\framework\obj\Debug\framework.pdb

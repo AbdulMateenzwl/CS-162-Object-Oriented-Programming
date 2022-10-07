@@ -1,0 +1,6 @@
+C:\Users\Abdul Mateen\source\repos\task 6\task 6\bin\Debug\task 6.exe.config
+C:\Users\Abdul Mateen\source\repos\task 6\task 6\bin\Debug\task 6.exe
+C:\Users\Abdul Mateen\source\repos\task 6\task 6\bin\Debug\task 6.pdb
+C:\Users\Abdul Mateen\source\repos\task 6\task 6\obj\Debug\task 6.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Mateen\source\repos\task 6\task 6\obj\Debug\task 6.exe
+C:\Users\Abdul Mateen\source\repos\task 6\task 6\obj\Debug\task 6.pdb

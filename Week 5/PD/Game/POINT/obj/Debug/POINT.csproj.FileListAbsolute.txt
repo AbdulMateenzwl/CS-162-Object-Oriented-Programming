@@ -1,0 +1,16 @@
+D:\PD_TASK2\POINT\bin\Debug\POINT.exe.config
+D:\PD_TASK2\POINT\bin\Debug\POINT.exe
+D:\PD_TASK2\POINT\bin\Debug\POINT.pdb
+D:\PD_TASK2\POINT\obj\Debug\POINT.csproj.AssemblyReference.cache
+D:\PD_TASK2\POINT\obj\Debug\POINT.csproj.SuggestedBindingRedirects.cache
+D:\PD_TASK2\POINT\obj\Debug\POINT.csproj.CoreCompileInputs.cache
+D:\PD_TASK2\POINT\obj\Debug\POINT.exe
+D:\PD_TASK2\POINT\obj\Debug\POINT.pdb
+D:\UET\Semester2\OOP\Week 5\PD\Game\POINT\bin\Debug\POINT.exe.config
+D:\UET\Semester2\OOP\Week 5\PD\Game\POINT\bin\Debug\POINT.exe
+D:\UET\Semester2\OOP\Week 5\PD\Game\POINT\bin\Debug\POINT.pdb
+D:\UET\Semester2\OOP\Week 5\PD\Game\POINT\obj\Debug\POINT.csproj.AssemblyReference.cache
+D:\UET\Semester2\OOP\Week 5\PD\Game\POINT\obj\Debug\POINT.csproj.SuggestedBindingRedirects.cache
+D:\UET\Semester2\OOP\Week 5\PD\Game\POINT\obj\Debug\POINT.csproj.CoreCompileInputs.cache
+D:\UET\Semester2\OOP\Week 5\PD\Game\POINT\obj\Debug\POINT.exe
+D:\UET\Semester2\OOP\Week 5\PD\Game\POINT\obj\Debug\POINT.pdb

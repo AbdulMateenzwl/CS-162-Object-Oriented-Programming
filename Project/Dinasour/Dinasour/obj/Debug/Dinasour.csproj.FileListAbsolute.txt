@@ -1,0 +1,11 @@
+D:\UET\Semester2\OOP\Project\Dinasour\Dinasour\bin\Debug\Dinasour.exe.config
+D:\UET\Semester2\OOP\Project\Dinasour\Dinasour\bin\Debug\Dinasour.exe
+D:\UET\Semester2\OOP\Project\Dinasour\Dinasour\bin\Debug\Dinasour.pdb
+D:\UET\Semester2\OOP\Project\Dinasour\Dinasour\bin\Debug\EZInput.dll
+D:\UET\Semester2\OOP\Project\Dinasour\Dinasour\bin\Debug\EZInput.xml
+D:\UET\Semester2\OOP\Project\Dinasour\Dinasour\obj\Debug\Dinasour.csproj.AssemblyReference.cache
+D:\UET\Semester2\OOP\Project\Dinasour\Dinasour\obj\Debug\Dinasour.csproj.SuggestedBindingRedirects.cache
+D:\UET\Semester2\OOP\Project\Dinasour\Dinasour\obj\Debug\Dinasour.csproj.CoreCompileInputs.cache
+D:\UET\Semester2\OOP\Project\Dinasour\Dinasour\obj\Debug\Dinasour.csproj.CopyComplete
+D:\UET\Semester2\OOP\Project\Dinasour\Dinasour\obj\Debug\Dinasour.exe
+D:\UET\Semester2\OOP\Project\Dinasour\Dinasour\obj\Debug\Dinasour.pdb

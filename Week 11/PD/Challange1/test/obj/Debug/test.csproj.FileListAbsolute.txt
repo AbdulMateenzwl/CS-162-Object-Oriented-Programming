@@ -1,0 +1,14 @@
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\bin\Debug\test.exe.config
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\bin\Debug\test.exe
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\bin\Debug\test.pdb
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\obj\Debug\test.Properties.Resources.resources
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\obj\Debug\test.exe
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\obj\Debug\test.pdb
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\bin\Debug\Challange1.dll
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\bin\Debug\Challange1.pdb
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\obj\Debug\test.Form1.resources
+D:\UET\Semester2\OOP\Week 11\PD\Challange1\test\obj\Debug\test.csproj.CopyComplete

@@ -1,0 +1,7 @@
+D:\lab 1\task 17\task 17\bin\Debug\task 17.exe.config
+D:\lab 1\task 17\task 17\bin\Debug\task 17.exe
+D:\lab 1\task 17\task 17\bin\Debug\task 17.pdb
+D:\lab 1\task 17\task 17\obj\Debug\task 17.csproj.CoreCompileInputs.cache
+D:\lab 1\task 17\task 17\obj\Debug\task 17.exe
+D:\lab 1\task 17\task 17\obj\Debug\task 17.pdb
+D:\lab 1\task 17\task 17\obj\Debug\task 17.csproj.AssemblyReference.cache

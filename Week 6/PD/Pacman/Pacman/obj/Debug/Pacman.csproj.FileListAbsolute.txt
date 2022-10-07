@@ -1,0 +1,8 @@
+D:\UET\Semester2\OOP\Week 6\PD\Pacman\Pacman\bin\Debug\Pacman.exe.config
+D:\UET\Semester2\OOP\Week 6\PD\Pacman\Pacman\bin\Debug\Pacman.exe
+D:\UET\Semester2\OOP\Week 6\PD\Pacman\Pacman\bin\Debug\Pacman.pdb
+D:\UET\Semester2\OOP\Week 6\PD\Pacman\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+D:\UET\Semester2\OOP\Week 6\PD\Pacman\Pacman\obj\Debug\Pacman.csproj.SuggestedBindingRedirects.cache
+D:\UET\Semester2\OOP\Week 6\PD\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+D:\UET\Semester2\OOP\Week 6\PD\Pacman\Pacman\obj\Debug\Pacman.exe
+D:\UET\Semester2\OOP\Week 6\PD\Pacman\Pacman\obj\Debug\Pacman.pdb

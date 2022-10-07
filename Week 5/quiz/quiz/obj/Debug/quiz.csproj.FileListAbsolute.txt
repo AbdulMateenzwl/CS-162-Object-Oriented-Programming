@@ -1,0 +1,8 @@
+D:\UET\Semester2\OOP\Week 5\quiz\quiz\bin\Debug\quiz.exe.config
+D:\UET\Semester2\OOP\Week 5\quiz\quiz\bin\Debug\quiz.exe
+D:\UET\Semester2\OOP\Week 5\quiz\quiz\bin\Debug\quiz.pdb
+D:\UET\Semester2\OOP\Week 5\quiz\quiz\obj\Debug\quiz.csproj.AssemblyReference.cache
+D:\UET\Semester2\OOP\Week 5\quiz\quiz\obj\Debug\quiz.csproj.SuggestedBindingRedirects.cache
+D:\UET\Semester2\OOP\Week 5\quiz\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+D:\UET\Semester2\OOP\Week 5\quiz\quiz\obj\Debug\quiz.exe
+D:\UET\Semester2\OOP\Week 5\quiz\quiz\obj\Debug\quiz.pdb

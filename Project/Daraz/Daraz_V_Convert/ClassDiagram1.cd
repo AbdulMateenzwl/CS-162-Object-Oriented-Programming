@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Daraz_V_Convert.BL.Admin">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAQAAAAEAAAAAAAACAAACAgAAAgA=</HashCode>
+      <FileName>BL\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.BL.Seller">
+    <Position X="6.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAACAAAgAAAQAQQAEAAAQgAAAEIAACAAAAAgAABAQ=</HashCode>
+      <FileName>BL\Seller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.BL.Product">
+    <Position X="6.25" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAAQAAAAEAACAAAAAgAAAAAA=</HashCode>
+      <FileName>BL\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.BL.User">
+    <Position X="6.25" Y="35" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAACAAAAIwAAACAAQAAAIEAAAiAACAIgAABBA=</HashCode>
+      <FileName>BL\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.DL.AdminDL">
+    <Position X="19.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DL\AdminDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.DL.SellerDL">
+    <Position X="19.25" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIICAAAABAAAAAAAACAQAAAAAAgAAAAAAAQAAACAA=</HashCode>
+      <FileName>DL\SellerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.DL.UserDL">
+    <Position X="18.25" Y="36.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\UserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.AdminMenu">
+    <Position X="37.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIhQAACAAAQAAAACAYAQCAAAAAAAAAAAAAIBAACA=</HashCode>
+      <FileName>Forms\AdminMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.AdminChangePassword">
+    <Position X="30.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAQAACAAAREAAACAQABCAAAAAAAAEBAAAAFAACA=</HashCode>
+      <FileName>Forms\AdminChangePassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.AdminHistory">
+    <Position X="30.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgACAAAAAAAACAQAACAAAAAAAAAAAAAABAACA=</HashCode>
+      <FileName>Forms\AdminHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.AdminGV">
+    <Position X="30.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAhARACAAAQAAAECAQAACAAAAAAAAAACIAYBAADA=</HashCode>
+      <FileName>Forms\AdminGV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.SellerAdd">
+    <Position X="27.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAAAACAAABEAAACAQABCIAAAQAAAEAAAAAFAACA=</HashCode>
+      <FileName>Forms\SellerAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.EditSeller">
+    <Position X="27.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACIAAAACAAABEAAACAQARCIAgAAQAAEAAAAAFAACA=</HashCode>
+      <FileName>Forms\EditSeller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.SellerMenu">
+    <Position X="35.25" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIhAAACAAAAAAAACAQAACAAAAAAAAAAAAAIBAACA=</HashCode>
+      <FileName>Forms\SellerMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.SellerGV">
+    <Position X="31.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIhABACAAAAIAAACAQAQCAAAAAAAAAgAAAYBAACA=</HashCode>
+      <FileName>Forms\SellerGV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.ProductAdd">
+    <Position X="28" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAABAAAACAQAACAAAAAAACEAAAAABAACA=</HashCode>
+      <FileName>Forms\ProductAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.SellerChangePassword">
+    <Position X="31.5" Y="27" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAAAAKAAABEAAACASABSAAAAAAAAEAAAAAFAACA=</HashCode>
+      <FileName>Forms\SellerChangePassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.EditProduct">
+    <Position X="28" Y="27.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAABAAAACAQAACAAAAAQACEAQAAABAACA=</HashCode>
+      <FileName>Forms\EditProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.UserMenu">
+    <Position X="35" Y="41.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIhAAACAAAAAAAACAQAQCAAAAAAAAAAAAAIBAACA=</HashCode>
+      <FileName>Forms\UserMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.UserGV">
+    <Position X="31.5" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIoABACAgQBAQAACAQAACAAAAEAAAAAAAAQBAACA=</HashCode>
+      <FileName>Forms\UserGV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.UserCartGV">
+    <Position X="31.5" Y="41.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABACAQAAAAAACAQAACAAAAEAAAAAAAAQBAACA=</HashCode>
+      <FileName>Forms\UserCartGV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.Userinfo">
+    <Position X="28.25" Y="41.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACAAARAAAACAQAQCAAAAAAAAEAAAAABAACA=</HashCode>
+      <FileName>Forms\Userinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.UserChangepassword">
+    <Position X="31.5" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAAAACAAABAAAACAQABCAAAAAAAAEAAAAABAACA=</HashCode>
+      <FileName>Forms\UserChangepassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.Sign_In">
+    <Position X="50.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAIIAQAACAAABEAAECAAAACAAAEAAAAEAAAAAFAASA=</HashCode>
+      <FileName>Forms\Sign_In.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daraz_V_Convert.Forms.SignUp">
+    <Position X="50.75" Y="34" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAQAACAAABEAIACAAABCAAAAAAAAEAAAAAFAACA=</HashCode>
+      <FileName>Forms\SignUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
